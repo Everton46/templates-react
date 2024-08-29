@@ -1,0 +1,5 @@
+.post {
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: transform 100ms ease-in-out;
+}
